@@ -1,4 +1,5 @@
 # andie's technical activity log 2024
+# my personal time log for geom99 group 4: https://docs.google.com/spreadsheets/d/1UeDhiMlVg55BBoP2paiI3WA6aODq5btSCYPUxrXSli0/edit?usp=sharing
 
 _**february 29th:** setting up markdown.md doc in githubt and learning md syntax from here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax_.
 
@@ -7,7 +8,7 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
 * :alarm_clock: 8am: Started my own ArcGIS Server on Google Cloud Platform. Followed Shawn's instructions (https://youtu.be/dyFeyBX9jIY) to get everything up and running. NOTE: document all passwords / IP addresses / important information Shawn addresses in the video in Notepad, as some information is only shown to you once and it is helpful to have it all safely stored.
 * :alarm_clock: 9am: VM up and running. REMEMBER to turn off VM when not using! You can ensure that everything is turned off my seeing a "stop" icon on GCP and shutting down VM from start menu.
 * :alarm_clock: 1115am: Contiued to work through checklist steps - publishing on GCP VM into ArcGIS Server (Canada.shp used from prior weeks).
-* :alarm_clock: 245pm: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
+* :alarm_clock: 345pm: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
 
  _**brief step by step process of set up**_
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3928caeb-f655-416a-8647-813917fda204)
@@ -47,16 +48,28 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
  * :thumbsup: when shutting down server --> 3 dots, **stop** and wait until status icon is grey.
 
 **march 3:**
-
-**march 5:**
-
-**march 7:**
-
-**march 8:**
-
-**march 9:**
+* :alarm_clock: 8am: clicked through optional items of week 7/8 checklist - found Shawn's demos on Geoserver interesting and followed his 5 step series on youtube (https://www.youtube.com/playlist?list=PLa8md6Vlz64JqOvr5P0Hua3LTVsmTpajF).
+* :alarm_clock: 12pm: satified with checklist and learned a lot. An interesting thing I now know is that you can use GeoServer to your advantage and it can host your data, reducing your AGOL credits!
 
 **march 10:**
+* :alarm_clock: using chloe's and rajesh's client - city of cambridge (https://geohub.cambridge.ca/pages/operations) - dashboards to click around and play with the interface as i am not familiar.
+* ![Screenshot 2024-03-08 085659](https://github.com/aherstek/markdown.md/assets/146446987/754949f3-6427-458d-b5fa-b9673cde5c47)
+
+**march 11:**
+* :alarm_clock:
+
+**march 12:**
+* :alarm_clock:
+
+**march 13:**
+* :alarm_clock: started to play with our UDOT data in ArcGIS Dashboards. Finding it difficult to easily display the multilevels.
+* ![Screenshot 2024-03-13 153250](https://github.com/aherstek/markdown.md/assets/146446987/53482104-fe32-4fc8-ab04-0c9b430f4ce6)
 
 **march 14:**
+* :alarm_clock: trying to deploy floor widget in experience builder so user can view each floor independently... not working yet. having so many layers of a building at once is proven to be difficult to display in a easy way! 
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/959f5526-d143-4692-b22d-b1fb0eb27f84)
+
+
+**march 14:**
+* :alarm_clock: met with shawn with GEOM99 group 4 - he introduced us to AGOL Solutions! This is what I will begin to look into this weekend.
 
