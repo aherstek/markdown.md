@@ -68,7 +68,7 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
 * ![Screenshot 2024-03-12 094121](https://github.com/aherstek/markdown.md/assets/146446987/209adc4b-c54d-4ce9-be65-00b8d51ce3a8)
 
 **march 13:**
-* :alarm_clock: started to play with our UDOT data in ArcGIS Dashboards. Finding it difficult to easily display the multilevels.
+* :alarm_clock: started to play with our UDOT data in ArcGIS Dashboards. Finding it difficult to easily display the multilevels. Experimented for a little bit to familiarize myself with the interface. Opened/closed settings, switched up layout.
 * ![Screenshot 2024-03-13 153250](https://github.com/aherstek/markdown.md/assets/146446987/53482104-fe32-4fc8-ab04-0c9b430f4ce6)
 
 **march 14:**
