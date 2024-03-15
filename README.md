@@ -52,24 +52,22 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
 * :alarm_clock: 12pm: satified with checklist and learned a lot. An interesting thing I now know is that you can use GeoServer to your advantage and it can host your data, reducing your AGOL credits!
 
 **march 10:**
-* :alarm_clock: using chloe's and rajesh's client - city of cambridge (https://geohub.cambridge.ca/pages/operations) - dashboards to click around and play with the interface as i am not familiar.
+* :alarm_clock: using chloe's and rajesh's client - city of cambridge (https://geohub.cambridge.ca/pages/operations) - dashboards to click around and play with the interface as i am not familiar. very cool interface but am concerned as to how we will show indoor floorplans / room info on this interface. leaning more towards experience builder...
 * ![Screenshot 2024-03-08 085659](https://github.com/aherstek/markdown.md/assets/146446987/754949f3-6427-458d-b5fa-b9673cde5c47)
 
-**march 11:**
-* :alarm_clock:
-
 **march 12:**
-* :alarm_clock:
+* :alarm_clock: found UDOT open source data on AGOL. Business building located in Utah. Group okay to use this. Uploaded into ArcGIS Pro to have a better look and play around with the layers. Plan to upload to AGOL Group once Shawn shows us how to in lecture.
+* ![Screenshot 2024-03-12 094121](https://github.com/aherstek/markdown.md/assets/146446987/209adc4b-c54d-4ce9-be65-00b8d51ce3a8)
 
 **march 13:**
 * :alarm_clock: started to play with our UDOT data in ArcGIS Dashboards. Finding it difficult to easily display the multilevels.
 * ![Screenshot 2024-03-13 153250](https://github.com/aherstek/markdown.md/assets/146446987/53482104-fe32-4fc8-ab04-0c9b430f4ce6)
 
 **march 14:**
-* :alarm_clock: trying to deploy floor widget in experience builder so user can view each floor independently... not working yet. having so many layers of a building at once is proven to be difficult to display in a easy way! 
+* :alarm_clock: trying to deploy floor widget in experience builder so user can view each floor independently... not working yet (view, view 2, view 3). having so many layers of a building at once is proven to be difficult to display in a easy way! also count not get the 'directions' widget to link with the UDOT data - I believe I need to select a floor but could not find where to do so. 
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/959f5526-d143-4692-b22d-b1fb0eb27f84)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/5bf5c3bb-731e-4aff-b62f-d39cb7441b81)
 
-
-**march 14:**
+**march 15:**
 * :alarm_clock: met with shawn with GEOM99 group 4 - he introduced us to AGOL Solutions! This is what I will begin to look into this weekend.
 
