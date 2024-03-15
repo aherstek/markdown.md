@@ -6,8 +6,8 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
 **week7/8 checklist notes and timeline**
 * :alarm_clock: 8am: Started my own ArcGIS Server on Google Cloud Platform. Followed Shawn's instructions (https://youtu.be/dyFeyBX9jIY) to get everything up and running. NOTE: document all passwords / IP addresses / important information Shawn addresses in the video in Notepad, as some information is only shown to you once and it is helpful to have it all safely stored.
 * :alarm_clock: 9am: VM up and running. REMEMBER to turn off VM when not using! You can ensure that everything is turned off my seeing a "stop" icon on GCP and shutting down VM from start menu.
-* :alarm_clock: 915am: Contiued to work through checklist steps - publishing on GCP VM into ArcGIS Server (Canada.shp used from prior weeks).
-* :alarm_clock: 11am: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
+* :alarm_clock: 1115am: Contiued to work through checklist steps - publishing on GCP VM into ArcGIS Server (Canada.shp used from prior weeks).
+* :alarm_clock: 245pm: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
 
  _**brief step by step process of set up**_
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3928caeb-f655-416a-8647-813917fda204)
@@ -16,15 +16,35 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
  * :thumbsup: Enabling this API
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/c788b8b0-bac1-405e-8779-a8340feadad5)
  * :thumbsup: Clicking "Create Instance"
- * :thumbsup:
- * :thumbsup:
- * :thumbsup:
- * :thumbsup:
- * :thumbsup:
- * :thumbsup:
-
-
-
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/fa97ee29-2dfe-401e-8220-1199be18b45e)
+ * :thumbsup: Configuring instance settings. We learn about the cost to run such instance on an hourly and monthly basis (kinda cool!)
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/aa737fe4-2744-4ea7-a6f5-7949b072eee5)
+ * :thumbsup: Continuing to set up instance...
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/ba2da5c4-3a38-4238-944b-c84059b62808)
+ * :thumbsup: Linking to Shawn's provided image for us to use (custom image in boot disk settings)
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e45dc1b1-d455-405b-b1e1-2e3d0523eb4f)
+ * :thumbsup: Once complete, we see changes in cost estimate
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/24ae63ec-c2db-4ffa-b953-669e43ae96a8)
+ * :thumbsup: Setting up firewall
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/c07c4116-c713-46ec-9160-0dcfb6eba702)
+ * :thumbsup: Starting up our instance! Note: It may take a few minutes (just like starting up your own computer in the morning)
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/c24b7e60-1332-4539-bf47-7689483fb33f)
+ * :thumbsup: Creating our firewall rule, with direction of traffic: Ingress and action on match: allow. Targets: All instances in the network, IP4V ranges (unrestricted: 0.0.0.0/0), specify port TCP 444 then click **Create**
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3383b265-ce11-42fa-a5b4-a473eba18f43)
+ * :thumbsup: Checking back on our VM - it's running!!! 😸
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/07241d0b-85c9-474f-ae51-b61f13cf5470)
+ * :thumbsup: Configuring windows account, click **Set**. Password will then be provided, write it down as it won't be easy to remember! Also, take note of internal / external IP addresses provided on the VM instance screen. They will be needed later!
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/7ed700dc-2e56-4009-a73c-a403b13097a0)
+ * :thumbsup: Go to your computers start menu and find Remote Desktop - log in with credentials Shawn provides (external IP needed as stated prior). A "risk" pop up will show, click **Yes**. We will then connect to the remote desktop.
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/915ed565-6ebb-4cfc-bcff-62e24f22f559)
+ * :thumbsup: Remote desktop will look like this. We are now ready to proceed.
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/09c1c1c7-ec0a-4fbc-abea-3faa5f075603)
+ * :thumbsup: **try** input your IP used above into google - you should see image above. if you put https:// infront - you will get _"connection is not private"_ (its normal! dont worry). click advanced and proceed. now add to your url (https://IP address /arcgis/rest/services) and experiment with the manager too at arcgis/manager by logging in from Shawn's instructions.
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/6db6f915-9f20-45b4-9146-2c937a0d1f8e)
+ * :thumbsup: example of server manager screen
+ * :thumbsup: we are now ready to proceed into arcgis ! :smile:
+ * ![image](https://github.com/aherstek/markdown.md/assets/146446987/91400e87-ee01-40b0-84f5-6b0caee32e75)
+ * :thumbsup: when shutting down server --> 3 dots, **stop** and wait until status icon is grey.
 
 **march 3:**
 
