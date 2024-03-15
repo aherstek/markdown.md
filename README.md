@@ -43,9 +43,17 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
  * :thumbsup: **try** input your IP used above into google - you should see image above. if you put https:// infront - you will get _"connection is not private"_ (its normal! dont worry). click advanced and proceed. now add to your url (https://IP address /arcgis/rest/services) and experiment with the manager too at arcgis/manager by logging in from Shawn's instructions.
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/6db6f915-9f20-45b4-9146-2c937a0d1f8e)
  * :thumbsup: example of server manager screen
- * :thumbsup: we are now ready to proceed into arcgis ! :smile:
+ * :thumbsup: we are now ready to proceed ! :smile:
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/91400e87-ee01-40b0-84f5-6b0caee32e75)
  * :thumbsup: when shutting down server --> 3 dots, **stop** and wait until status icon is grey.
+
+* :thumbsup: at this point I forgot to keep taking screenshots so it will be texted based from now on.
+* :thumbsup: **DuckDNS (https://www.duckdns.org/) to establish new domain**
+* Complete reCaptcha verification on the DuckDNS website to generate a domain. You will input the External IP from GC Console into the designated field and click to update. The resulting domain will be: your_info.duckdns.org. Following any interruptions in the Google Cloud VM, subsequent reboots will automatically regenerate the external IP. This IP, associated with the new domain, can be seamlessly updated within DuckDNS without requiring modifications in server settings or other relevant areas where VM usage is integral.
+* :thumbsup: **SSL cert**
+* Spark up your VM and update your IP (external) to your DuckDNS. Log into your remote desktop and open IIS Manager (it's a desktop app, search ISS). Default website is bindings. Select 443 port, edit and define domain to match your DuckDNS. Then, use https://www.win-acme.com/ and download. Run wacs.exe, click more info, run anyway. You will then set your options via code displayed on screen. Create your cert, all bindings, confirm, open T.O.S, agrree, provide your email and close window when code is done. Make sure it worked on DNS url, and you will be gvem SSL certificate viewable in your internet browser.
+* :thumbsup:**publishing to AGOL**
+* Sparking up your VM instance on GCP (click _Start/Resume_) and copy your external IP, go to your DuckDNS and update domain. Go to ArcGIS Rest Endpoint to check server response / it's working (log in as admin). Log into your remote desktop, and copy Canada data with the same path. In ArcGIS Pro, add new ArcGIS Server Connection. Server URL will be your DNS URL with port :6443/arcgis. Then, once logged in with siteadmin, Publish. Now check to see if it worked at the REST Directory, and you will see Canada map! You can now create a web map using this layer (via add item URL on AGOL).
 
 **march 3:**
 * :alarm_clock: 8am: clicked through optional items of week 7/8 checklist - found Shawn's demos on Geoserver interesting and followed his 5 step series on youtube (https://www.youtube.com/playlist?list=PLa8md6Vlz64JqOvr5P0Hua3LTVsmTpajF).
@@ -64,10 +72,12 @@ _**february 29th:** setting up markdown.md doc in githubt and learning md syntax
 * ![Screenshot 2024-03-13 153250](https://github.com/aherstek/markdown.md/assets/146446987/53482104-fe32-4fc8-ab04-0c9b430f4ce6)
 
 **march 14:**
-* :alarm_clock: trying to deploy floor widget in experience builder so user can view each floor independently... not working yet (view, view 2, view 3). having so many layers of a building at once is proven to be difficult to display in a easy way! also count not get the 'directions' widget to link with the UDOT data - I believe I need to select a floor but could not find where to do so. 
+* :alarm_clock: trying to deploy floor widget in experience builder so user can view each floor independently... not working yet (view, view 2, view 3). having so many layers of a building at once is proven to be difficult to display in a easy way! also count not get the 'directions' widget to link with the UDOT data - I believe I need to select a floor but could not find where to do so. *REMEMBER* you need to unlock layout lock to access your widgets!
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/959f5526-d143-4692-b22d-b1fb0eb27f84)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/5bf5c3bb-731e-4aff-b62f-d39cb7441b81)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/b06fbfe7-01f2-44ad-89dc-b3d16edc31d5)
+
 
 **march 15:**
-* :alarm_clock: met with shawn with GEOM99 group 4 - he introduced us to AGOL Solutions! This is what I will begin to look into this weekend.
+* :alarm_clock: met with shawn with GEOM99 group 4 - he introduced us to AGOL Solutions! This is what I will begin to look into this weekend. :)
 
