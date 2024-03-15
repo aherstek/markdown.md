@@ -56,8 +56,9 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * Sparking up your VM instance on GCP (click _Start/Resume_) and copy your external IP, go to your DuckDNS and update domain. Go to ArcGIS Rest Endpoint to check server response / it's working (log in as admin). Log into your remote desktop, and copy Canada data with the same path. In ArcGIS Pro, add new ArcGIS Server Connection. Server URL will be your DNS URL with port :6443/arcgis. Then, once logged in with siteadmin, Publish. Now check to see if it worked at the REST Directory, and you will see Canada map! You can now create a web map using this layer (via add item URL on AGOL).
 
 **march 3:**
-* :alarm_clock: 8am: clicked through optional items of week 7/8 checklist - found Shawn's demos on Geoserver interesting and followed his 5 step series on youtube (https://www.youtube.com/playlist?list=PLa8md6Vlz64JqOvr5P0Hua3LTVsmTpajF).
-* :alarm_clock: 12pm: satified with checklist and learned a lot. An interesting thing I now know is that you can use GeoServer to your advantage and it can host your data, reducing your AGOL credits!
+* :alarm_clock: 8am: clicked through optional items of week 7/8 checklist - found Shawn's demos on Geoserver interesting and followed his 5 step series on youtube (https://www.youtube.com/playlist?list=PLa8md6Vlz64JqOvr5P0Hua3LTVsmTpajF). from shawn's videos I discovered QGIS, which I then went on a side quest to trial and play with. Downloaded some roads data from QGIS's tutotial section (https://www.qgis.org/en/site/about/index.html).
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/9f30d5ac-5976-491c-b4b1-6daf2dbee08d)
+* :alarm_clock: 12pm: satified with checklist and learned a lot. An interesting thing I now know is that you can use GeoServer to your advantage and it can host your data, reducing your AGOL credits! Also, got to discover QGIS a bit :)
 
 **march 10:**
 * :alarm_clock: using chloe's and rajesh's client - city of cambridge (https://geohub.cambridge.ca/pages/operations) - dashboards to click around and play with the interface as i am not familiar. very cool interface but am concerned as to how we will show indoor floorplans / room info on this interface. leaning more towards experience builder...
