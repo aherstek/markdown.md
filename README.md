@@ -1,14 +1,14 @@
 # andie's technical activity log 2024
 # my personal time log for geom99 group 4: https://docs.google.com/spreadsheets/d/1UeDhiMlVg55BBoP2paiI3WA6aODq5btSCYPUxrXSli0/edit?usp=sharing
 
-_**february 29th:** setting up markdown.md doc in githubt and learning md syntax from here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax_.
+_**february 29th:** setting up markdown.md doc in github and learning md syntax from here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax_.
 
 **march 1:**
 **week7/8 checklist notes and timeline**
 * :alarm_clock: 8am: Started my own ArcGIS Server on Google Cloud Platform. Followed Shawn's instructions (https://youtu.be/dyFeyBX9jIY) to get everything up and running. NOTE: document all passwords / IP addresses / important information Shawn addresses in the video in Notepad, as some information is only shown to you once and it is helpful to have it all safely stored.
 * :alarm_clock: 9am: VM up and running. REMEMBER to turn off VM when not using! You can ensure that everything is turned off my seeing a "stop" icon on GCP and shutting down VM from start menu.
 * :alarm_clock: 1115am: Contiued to work through checklist steps - publishing on GCP VM into ArcGIS Server (Canada.shp used from prior weeks).
-* :alarm_clock: 345pm: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
+* :alarm_clock: 435pm: Completed checklist. Overall it was a bit challenging - ESRI documentation and Shawn's notes/videos were helpful when stuck.
 
  _**brief step by step process of set up**_
  * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3928caeb-f655-416a-8647-813917fda204)
