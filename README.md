@@ -78,7 +78,22 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/5bf5c3bb-731e-4aff-b62f-d39cb7441b81)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/b06fbfe7-01f2-44ad-89dc-b3d16edc31d5)
 
-
 **march 15:**
 * :alarm_clock: met with shawn with GEOM99 group 4 - he introduced us to AGOL Solutions! This is what I will begin to look into this weekend. :)
 
+**march 15:**
+* :alarm_clock: _start time: 2:45pm_ working through many trials and errors of experience builder's widgets. i spent ~2 hours clicking through the many widgets to see which could best suit floorplan data.
+* :alarm_clock: i took today to simply learn and play about widgets. i opened experience builder, made a brief little title/image sidebar and imported UDOT map. I then made a large area below/beside these sections to then one by one select a widget i was interested in and click through the settings, try to get it to work, etc - all to see how valuable it may be to my groups geom99 project. below i have listed the widgets that either i learned something new with, did not work, or i think could be useful for future use. i have rated them on a scale of 1 to 10 for quick reference. 
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/6c31eb43-dba1-44d2-8b9f-74b2dfe5c906)
+* :alarm_clock: ^ above is the 'map layers' widget that allows you flick floors on and off to see from above. it works, but not visually appealing. i rate 2/10.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/ad201250-9e13-4657-b2ca-6fbdcfd896e5)
+* :alarm_clock: ^ next i tried the 'near me' widget which i thought i could set up to direct one to various sections of the building but it is not compatible... so 0/10.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/8244641c-6889-452a-97f3-33e55185476d)
+* :alarm_clock: ^ similarly with 'network analysis' i was hopeful to be able to experiment with this but alas.... no... 0/10.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/45598461-f8f4-49a8-b474-142cd4a9f94e)
+* :alarm_clock: ^ then i tried 'floor filter' which isn't "floor aware" of our data... i want to look into this further! i am curious, so 3/10. look into this documentation: https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/floor-filter-widget.htm and https://pro.arcgis.com/en/pro-app/latest/help/data/indoors/floor-aware-maps.htm
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/40049d78-9bd4-423c-a466-c2a2f4fccfa7)
+* :alarm_clock: ^ above is the 'directions' widget which i thought i could maybe use for an indoor space but i learned it is only from one outdoor address/building to another. could be useful for a building such as a school for staff/students to know how long it will take to get there from their home, to a field trip, etc... 4/10 could be useful!
+  
+* :alarm_clock: overall, i am feeling a bit discouraged to how to display floorplans that are not "floor aware". i am now going to look into a way through ESRI products to make our floorplans easier to use these widgets! _completion 4:42pm_
+  
