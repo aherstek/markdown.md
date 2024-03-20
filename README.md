@@ -96,4 +96,39 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * :alarm_clock: ^ above is the 'directions' widget which i thought i could maybe use for an indoor space but i learned it is only from one outdoor address/building to another. could be useful for a building such as a school for staff/students to know how long it will take to get there from their home, to a field trip, etc... 4/10 could be useful!
   
 * :alarm_clock: overall, i am feeling a bit discouraged to how to display floorplans that are not "floor aware". i am now going to look into a way through ESRI products to make our floorplans easier to use these widgets! maybe dashboards may be a better solution? plan to touch base with group for feedback tonight.  _completion 4:42pm_
+
+**march 20:**
+* ⏰: _start time: 12:00pm_ still trial and erroring widgets in experience builder.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/d5a44ee7-ae96-425d-b618-5ac2f93d03cc)
+* ⏰: ^ i have map widgets which allow you to click on the map which pulls up attribute table. i am thinking we can clean up which fields are shown (only useful info). i thought that maybe using just the floor outlines (pictured on the left in image above) may work better to see floorplans in experience builder but it unfortunately operates the same as yesterday's workflows...
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/159bd0ca-7992-461b-ab1d-37e5a89317d1)
+* ⏰: ^ i did accidentally discover by clicking the 4 dots and "show on map" it highlights the selected areas in the left map that were chosen on the right map... need to figure out how i linked this. could be useful for someone looking for a certain department / specific room use throughout the building?
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/4c0bab71-fdd9-4aa4-8709-016e8fd10d1d)
+* ⏰: ^ another example of clicking on right map, selecting a section and it highlighting on right map after "show on map" is selected.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/a841a305-de4c-47d2-b36f-f2874d05d7ff)
+* ⏰: ^ while looking at the tools in the "map" widget, i saw the tool "select". using 2 different icons provided (arrow with square, magnifying glass with square) you can select elements of the map. when trialling, this tool selects multiple features at once (as seen in image above) which i couldn't figure out how these features are chosen as i clicked on a sigular line (or so i think?). i think this tool could be useful for someone to use for the not line-based floorplans (the layers with allocated, coloured rooms) so someone could select certain rooms to learn more about them? i will try this next.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/e6060f4c-46c8-4c44-bf40-110824210348)
+* ⏰: ^ tried the "select" tool for the coloured map floorplan - i think it worked but with the multi-layers it was hard to see what was happening.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/9fef9d48-4709-471f-91d2-68da0cd53e6b)
+* ⏰: ^ i turned off all layers but one, and learned the select tool does choose all rooms of the same colour! i can't seem to see the 'selected features' attributes, as clicking on this icon just zooms in on the selected areas....
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/ee0822bb-be41-473f-aeae-68603e8775a4)
+* ⏰: i am now looking into the analysis tab.... so so so many resources here! as i was looking into possible analysis we could use, i noticed that these use credits to run (is that ok for us to do? i don't want to cost shawn $$$!!). for now, i am going to read into these analysis options just to see which might be good to play with for floorplans / indoor spaces to share with my group.
+* ⏰: **SPATIAL ANALYSIS TOOLS**
+* ⏰: i looked through _a lot_ of tools, but opted not to trial as they cost credits as stated above. these are the tools i chose to try, or found interesting enough to document. 
+* ⏰: 1) _"find by attributes and location" - 0.221 credits spent_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/e301d9e7-2929-4573-9084-59c13ad74286)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/cb0ac20d-daeb-4f5c-8604-567a7ffa003e)
+* ⏰: output here: https://fleming.maps.arcgis.com/home/item.html?id=0daab7d399b44f6d97995c278fd60e21
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/526658c5-fcf9-49ed-830d-9fcb51b91b4d)
+* ⏰: ^ query worked and displayed elevators on floor one as requested! not sure how this could be completely utilized for user's in a quick way (as querying isn't super user friendly for a non-GIS user but for internal use it would be cool to query X,Y,Z to find locations etc :) i am happy this was successful!
+* ⏰: 2) _"deep learning" - not used, just think is cool_
+* ⏰: i saw that there are 5 "deep learning" tools that utilize AI/computer models to create your outputs! a little too complex for this, but i think we could have taught it to classify rooms/ their use etc!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/2b35669b-1139-483e-bff8-058540b95e22)
+* ⏰: further documentation i read here: https://doc.arcgis.com/en/arcgis-online/analyze/classify-objects-using-deep-learning-mv-ra.htm
+
+
+
+
+
+
   
