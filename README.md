@@ -161,7 +161,7 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: overlay layers: https://doc.arcgis.com/en/arcgis-online/analyze/overlay-layers-mv.htm (to combine the skeletal/line layer of each floor to the coloured/polygon layer of same floor?)
   
 * ⏰: in all - today was super cool working through the analysis tools. i learned that many are not able to run due to how simplistic our data is, but other analysis tools we can utilize (for credits per query / run / etc). i want to allocate a bit more time this week (if possible) to learning experience builder tools so i have a full comprehension of them to present to shawn on friday, and to my group prior to this!
-
+_end time: 1:45pm_
 
 
 
