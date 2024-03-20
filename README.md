@@ -83,15 +83,20 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 
 **march 19:**
 * :alarm_clock: _start time: 2:45pm_ working through many trials and errors of experience builder's widgets. i spent ~2 hours clicking through the many widgets to see which could best suit floorplan data.
-* :alarm_clock: i took today to simply learn and play about widgets. i opened experience builder, made a brief little title/image sidebar and imported UDOT map. I then made a large area below/beside these sections to then one by one select a widget i was interested in and click through the settings, try to get it to work, etc - all to see how valuable it may be to my groups geom99 project. below i have listed the widgets that either i learned something new with, did not work, or i think could be useful for future use. i have rated them on a scale of 1 to 10 for quick reference. 
+* :alarm_clock: i took today to simply learn and play about widgets. i opened experience builder, made a brief little title/image sidebar and imported UDOT map. I then made a large area below/beside these sections to then one by one select a widget i was interested in and click through the settings, try to get it to work, etc - all to see how valuable it may be to my groups geom99 project. below i have listed the widgets that either i learned something new with, did not work, or i think could be useful for future use. i have rated them on a scale of 1 to 10 for quick reference.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/6c31eb43-dba1-44d2-8b9f-74b2dfe5c906)
 * :alarm_clock: ^ above is the 'map layers' widget that allows you flick floors on and off to see from above. it works, but not visually appealing. i rate 2/10.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/ad201250-9e13-4657-b2ca-6fbdcfd896e5)
 * :alarm_clock: ^ next i tried the 'near me' widget which i thought i could set up to direct one to various sections of the building but it is not compatible... so 0/10.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/8244641c-6889-452a-97f3-33e55185476d)
 * :alarm_clock: ^ similarly with 'network analysis' i was hopeful to be able to experiment with this but alas.... no... 0/10.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/45598461-f8f4-49a8-b474-142cd4a9f94e)
 * :alarm_clock: ^ then i tried 'floor filter' which isn't "floor aware" of our data... i want to look into this further! i am curious, so 3/10. look into this documentation: https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/floor-filter-widget.htm and https://pro.arcgis.com/en/pro-app/latest/help/data/indoors/floor-aware-maps.htm
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/40049d78-9bd4-423c-a466-c2a2f4fccfa7)
 * :alarm_clock: ^ above is the 'directions' widget which i thought i could maybe use for an indoor space but i learned it is only from one outdoor address/building to another. could be useful for a building such as a school for staff/students to know how long it will take to get there from their home, to a field trip, etc... 4/10 could be useful!
   
@@ -101,30 +106,47 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: _start time: 12:00pm_ still trial and erroring widgets in experience builder.
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/d5a44ee7-ae96-425d-b618-5ac2f93d03cc)
 * ⏰: ^ i have map widgets which allow you to click on the map which pulls up attribute table. i am thinking we can clean up which fields are shown (only useful info). i thought that maybe using just the floor outlines (pictured on the left in image above) may work better to see floorplans in experience builder but it unfortunately operates the same as yesterday's workflows...
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/159bd0ca-7992-461b-ab1d-37e5a89317d1)
 * ⏰: ^ i did accidentally discover by clicking the 4 dots and "show on map" it highlights the selected areas in the left map that were chosen on the right map... need to figure out how i linked this. could be useful for someone looking for a certain department / specific room use throughout the building?
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/4c0bab71-fdd9-4aa4-8709-016e8fd10d1d)
 * ⏰: ^ another example of clicking on right map, selecting a section and it highlighting on right map after "show on map" is selected.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/a841a305-de4c-47d2-b36f-f2874d05d7ff)
 * ⏰: ^ while looking at the tools in the "map" widget, i saw the tool "select". using 2 different icons provided (arrow with square, magnifying glass with square) you can select elements of the map. when trialling, this tool selects multiple features at once (as seen in image above) which i couldn't figure out how these features are chosen as i clicked on a sigular line (or so i think?). i think this tool could be useful for someone to use for the not line-based floorplans (the layers with allocated, coloured rooms) so someone could select certain rooms to learn more about them? i will try this next.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e6060f4c-46c8-4c44-bf40-110824210348)
 * ⏰: ^ tried the "select" tool for the coloured map floorplan - i think it worked but with the multi-layers it was hard to see what was happening.
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/9fef9d48-4709-471f-91d2-68da0cd53e6b)
 * ⏰: ^ i turned off all layers but one, and learned the select tool does choose all rooms of the same colour! i can't seem to see the 'selected features' attributes, as clicking on this icon just zooms in on the selected areas....
+  
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/ee0822bb-be41-473f-aeae-68603e8775a4)
 * ⏰: i am now looking into the analysis tab.... so so so many resources here! as i was looking into possible analysis we could use, i noticed that these use credits to run (is that ok for us to do? i don't want to cost shawn $$$!!). for now, i am going to read into these analysis options just to see which might be good to play with for floorplans / indoor spaces to share with my group.
+  
 * ⏰: **SPATIAL ANALYSIS TOOLS**
-* ⏰: i looked through _a lot_ of tools, but opted not to trial as they cost credits as stated above. these are the tools i chose to try, or found interesting enough to document. 
-* ⏰: 1) _"find by attributes and location" - 0.221 credits spent_
+* ⏰: i looked through _a lot_ of tools, but opted not to trial as they cost credits as stated above. these are the tools i chose to try, or found interesting enough to document.
+  
+* ⏰: 1) _"find by attributes and location" -trialled, 0.221 credits spent_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e301d9e7-2929-4573-9084-59c13ad74286)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/cb0ac20d-daeb-4f5c-8604-567a7ffa003e)
 * ⏰: output here: https://fleming.maps.arcgis.com/home/item.html?id=0daab7d399b44f6d97995c278fd60e21
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/526658c5-fcf9-49ed-830d-9fcb51b91b4d)
 * ⏰: ^ query worked and displayed elevators on floor one as requested! not sure how this could be completely utilized for user's in a quick way (as querying isn't super user friendly for a non-GIS user but for internal use it would be cool to query X,Y,Z to find locations etc :) i am happy this was successful!
+  
 * ⏰: 2) _"deep learning" - not used, just think is cool_
 * ⏰: i saw that there are 5 "deep learning" tools that utilize AI/computer models to create your outputs! a little too complex for this, but i think we could have taught it to classify rooms/ their use etc!
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/2b35669b-1139-483e-bff8-058540b95e22)
 * ⏰: further documentation i read here: https://doc.arcgis.com/en/arcgis-online/analyze/classify-objects-using-deep-learning-mv-ra.htm
+  
+* ⏰: 3) _"choose best facilities" - could not use, data not compatible_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/98832ef1-5acc-4446-b9bc-31a0598621e8)
+* ⏰: i think widgets like this one could be cool to use indoors to calculate walking time. when trying to get it to work, i learned that our floor plan data was not compatible. seems to be a trend 😢
+* ⏰: documentation read here: https://doc.arcgis.com/en/arcgis-online/analyze/choose-best-facilities-mv.htm
+
+* ⏰: in all - today was super cool working through the analysis tools. i learned that many are not able to run due to how simplistic our data is, but other analysis tools we can utilize (for credits per query / run / etc). i want to allocate a bit more time this week (if possible) to learning experience builder tools so i have a full comprehension of them to present to shawn on friday, and to my group prior to this!
+
 
 
 
