@@ -145,6 +145,21 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: i think widgets like this one could be cool to use indoors to calculate walking time. when trying to get it to work, i learned that our floor plan data was not compatible. seems to be a trend 😢
 * ⏰: documentation read here: https://doc.arcgis.com/en/arcgis-online/analyze/choose-best-facilities-mv.htm
 
+* ⏰: 4) _"dissolve boundaries" - trialled, 0.221 credits spent_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/62bd093d-0e45-4dce-a046-b92d74ab4dff)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/d60faea5-d8b9-407a-8361-7ba012266183)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/da0b376e-9019-405a-9dab-54ff118061e1)
+* ⏰: ^ this tool worked as well!! yay! i used the same floor as experiment #1, choosing the groups attribute to dissolve by... also calculating total area. not sure how valuable this tool is? or if i did it correctly, but from this i learned that these analysis tools can be utilized to learn more about the areas/size/groups/names of this building.
+* ⏰: output here: https://fleming.maps.arcgis.com/home/item.html?id=6766f8b6cab04f58885566b8b58a7fe2
+
+* ⏰: documentation to analysis tools i looked into, but did not trial.
+* ⏰: aggregate points: https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points-mv.htm
+* ⏰: join Features: https://doc.arcgis.com/en/arcgis-online/analyze/join-features-mv.htm
+* ⏰: find similar locations: https://doc.arcgis.com/en/arcgis-online/analyze/find-similar-locations-mv.htm
+* ⏰: enrich layer: https://doc.arcgis.com/en/arcgis-online/analyze/enrich-layer-mv.htm
+* ⏰: distance allocation: https://doc.arcgis.com/en/arcgis-online/analyze/distance-allocation-mv-ra.htm
+* ⏰: overlay layers: https://doc.arcgis.com/en/arcgis-online/analyze/overlay-layers-mv.htm (to combine the skeletal/line layer of each floor to the coloured/polygon layer of same floor?)
+  
 * ⏰: in all - today was super cool working through the analysis tools. i learned that many are not able to run due to how simplistic our data is, but other analysis tools we can utilize (for credits per query / run / etc). i want to allocate a bit more time this week (if possible) to learning experience builder tools so i have a full comprehension of them to present to shawn on friday, and to my group prior to this!
 
 
