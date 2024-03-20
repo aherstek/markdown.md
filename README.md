@@ -126,7 +126,9 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: i am now looking into the analysis tab.... so so so many resources here! as i was looking into possible analysis we could use, i noticed that these use credits to run (is that ok for us to do? i don't want to cost shawn $$$!!). for now, i am going to read into these analysis options just to see which might be good to play with for floorplans / indoor spaces to share with my group.
   
 * ⏰: **SPATIAL ANALYSIS TOOLS**
-* ⏰: i looked through _a lot_ of tools, but opted not to trial as they cost credits as stated above. these are the tools i chose to try, or found interesting enough to document.
+* ⏰: i looked through _a lot_ of tools, but opted not to trial them all as they cost credits. these are the tools i chose to try, or found interesting enough to document.
+
+* 🛠️ how to set up: drag the analysis widget into your dashboard. a window will pop up on the right to allow you to choose which map you wish to analyze, and which tool you wish to use. once selected, you will add your query / information / etc directly into the widget. the analysis runs directly from your widget. confirm your ESRI email is correct, and name your output. you can even check how many estimated credits your run will cost. once finished, the widget will show your outputs on your chosen map, as well as your item id and link to AGOL layer. if you click the back arrow in the widget, it brings you back to all of the tools you have used to keep track of your analyses.
   
 * ⏰: 1) _"find by attributes and location" -trialled, 0.221 credits spent_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e301d9e7-2929-4573-9084-59c13ad74286)
@@ -152,7 +154,7 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: ^ this tool worked as well!! yay! i used the same floor as experiment #1, choosing the groups attribute to dissolve by... also calculating total area. not sure how valuable this tool is? or if i did it correctly, but from this i learned that these analysis tools can be utilized to learn more about the areas/size/groups/names of this building.
 * ⏰: output here: https://fleming.maps.arcgis.com/home/item.html?id=6766f8b6cab04f58885566b8b58a7fe2
 
-* ⏰: documentation to analysis tools i looked into, but did not trial.
+* ⏰: documentation to analysis tools i looked into, but did not trial yet (leaving links here for future me to reference)
 * ⏰: aggregate points: https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points-mv.htm
 * ⏰: join Features: https://doc.arcgis.com/en/arcgis-online/analyze/join-features-mv.htm
 * ⏰: find similar locations: https://doc.arcgis.com/en/arcgis-online/analyze/find-similar-locations-mv.htm
@@ -161,7 +163,7 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: overlay layers: https://doc.arcgis.com/en/arcgis-online/analyze/overlay-layers-mv.htm (to combine the skeletal/line layer of each floor to the coloured/polygon layer of same floor?)
   
 * ⏰: in all - today was super cool working through the analysis tools. i learned that many are not able to run due to how simplistic our data is, but other analysis tools we can utilize (for credits per query / run / etc). i want to allocate a bit more time this week (if possible) to learning experience builder tools so i have a full comprehension of them to present to shawn on friday, and to my group prior to this!
-_end time: 1:45pm_
+NOTE: remember to "lock layout" before viewing your widgets so you can view it from a user standpoint so you see what they would see when using it! _end time: 1:45pm_
 
 
 
