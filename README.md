@@ -175,6 +175,7 @@ NOTE: remember to "lock layout" before viewing your widgets so you can view it f
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e790a2d4-6356-4444-8c5f-25e8688c28a0)
 * ⏰: by clicking "present" and using the control toggles on the left, you can see your imported layer as 3D. i am now going to try to import this ino my experience builder (once i make it look a bit better/see other analysis options!)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/8f2a0f89-d2d5-4ec3-a166-29cfd8ffb490)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/004bf677-6752-4b8a-bb2e-f8c35211cb51)
 * ⏰: slice layer allows you to drag the exterior walls up and down using the large orange arrow to see internal floor plans!
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/a82c534a-314f-4a08-923a-118fa3814373)
 
