@@ -167,12 +167,25 @@ NOTE: remember to "lock layout" before viewing your widgets so you can view it f
 
 **march 28:**
 * ⏰: _start time: 12:30pm_
-* ⏰: today my goal is to create a fully curated, nice looking experience builder dashboard. i have played with the tools and am now familiar with the interface, but want to bring these elements together into a visually appealling user interface. my goal is to make a dashboard that allows the user to better understand room level/navigational information of UDOT building - as well as a (hypothetical) nearby park.
+* ⏰: today i have 2 goals... 1) to play with scene builder and 2) is to create a fully curated, nice looking experience builder dashboard. i have played with the tools and am now familiar with the interface, but want to bring these elements together into a visually appealling user interface. my goal is to make a dashboard that allows the user to better understand room level/navigational information of UDOT building - as well as a (hypothetical) nearby park.
+  
+* ⏰: _scene builder_
+* ⏰: i imported a layer i created during my experience builder trials so i can better understand what scene viewer has to offer! right off the bat, i noticed that you can adjust the time of day and weather on your layers, to accurately display shadowing and sun positioning (so cool!). this can be found by clicking the sun icon on the right, titled "Daylight/Weather".
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/5d76ac7e-f9b8-4856-b899-dcc7873ea8ce)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/e790a2d4-6356-4444-8c5f-25e8688c28a0)
+* ⏰: by clicking "present" and using the control toggles on the left, you can see your imported layer as 3D. i am now going to try to import this ino my experience builder (once i make it look a bit better/see other analysis options!)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/8f2a0f89-d2d5-4ec3-a166-29cfd8ffb490)
+* ⏰: slice layer allows you to drag the exterior walls up and down using the large orange arrow to see internal floor plans!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/a82c534a-314f-4a08-923a-118fa3814373)
+
+_experience builder_
+* ⏰: starting from the EB template I started last week, importing 2 Map widgets, 2 text widgets and 2 image widgets and playing around with the layout.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/919cce6e-3ec1-40be-b231-486b84b1eb45)
 * ⏰:
 * ⏰:
-
-
-
-
+* ⏰:
+* ⏰:
+* ⏰:
+* ⏰:
 
   
