@@ -192,16 +192,16 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3fc799b5-8da3-4147-9adb-c0573083b4f5)
 * ⏰: this dashboard allows a user to do the following functions:
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/2e00b08e-ee22-495c-aaef-579274004b06)
-* :exclamation:: select all attributes within a selected area (which then can be exported or queried)
+* :exclamation::  ^ select all attributes within a selected area (which then can be exported or queried)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/1aad5499-c343-4604-bf30-f940807e74eb)
-* :exclamation:: using 'selected features' tp query rooms and floors
+* :exclamation:: ^ using 'selected features' tp query rooms and floors
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/14d76043-fd81-4c5f-acf7-b25badace400)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/543333c4-0947-4603-8612-7409bd1bce1e)
-* :exclamation:: create routes with stops depending on user's selected mode of transportation 
-* :exclamation::
-* :exclamation::
-* :exclamation::
-* :exclamation::
+* :exclamation:: ^ create routes with stops depending on user's selected mode of transportation 
+* ⏰: *next steps*
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/85ec32ef-2fc4-40dd-b150-cd78bf4c7b18)
+* :exclamation:: ^ input the 3D imagery I created in Scene Viewer somehow and making it look better than my initial trials (in screenshots from today)
+* ⏰: overall, creating this dashboard took me much longer than expected. i forgot how much time it takes to create a nice looking layout... plugging in thw widgets and setting them up was the easy part! lol :exclamation:: this weekend i will continue to work on our webpage: https://georajesh.github.io/geom99-project/index.html 
 * ⏰: _end time: 3:25pm_
   
   
