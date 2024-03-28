@@ -165,6 +165,11 @@ _**february 29th:** setting up markdown.md doc in github and learning md syntax 
 * ⏰: in all - today was super cool working through the analysis tools. i learned that many are not able to run due to how simplistic our data is, but other analysis tools we can utilize (for credits per query / run / etc). i want to allocate a bit more time this week (if possible) to learning experience builder tools so i have a full comprehension of them to present to shawn on friday, and to my group prior to this!
 NOTE: remember to "lock layout" before viewing your widgets so you can view it from a user standpoint so you see what they would see when using it! _end time: 1:45pm_
 
+**march 28:**
+* ⏰: _start time: 12:30pm_
+* ⏰: today my goal is to create a fully curated, nice looking experience builder dashboard. i have played with the tools and am now familiar with the interface, but want to bring these elements together into a visually appealling user interface. my goal is to make a dashboard that allows the user to better understand room level/navigational information of UDOT building - as well as a (hypothetical) nearby park.
+* ⏰:
+* ⏰:
 
 
 
