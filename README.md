@@ -182,9 +182,11 @@ NOTE: remember to "lock layout" before viewing your widgets so you can view it f
 _experience builder_
 * ⏰: starting from the EB template I started last week, importing 2 Map widgets, 2 text widgets and 2 image widgets and playing around with the layout.
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/919cce6e-3ec1-40be-b231-486b84b1eb45)
-* ⏰:
-* ⏰:
-* ⏰:
+* ⏰: I GOT A ROUTE TO WORK !!!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/fbc9bbbc-bd24-4241-8189-7858c747a5dd)
+* ⏰: Using the "Directions" widget, you can click your starting and ending points on the below map and it will generate a route!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/175b5536-1d45-4cc7-b21d-43162e9f2da4)
+* ⏰: Another example of output, showing time and directions step by step
 * ⏰:
 * ⏰:
 * ⏰:
