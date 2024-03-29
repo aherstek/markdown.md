@@ -180,7 +180,7 @@ NOTE: remember to "lock layout" before viewing your widgets so you can view it f
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/a82c534a-314f-4a08-923a-118fa3814373)
 
 _experience builder_
-* ⏰: starting from the EB template I started last week, importing 2 Map widgets, 2 text widgets and 2 image widgets and playing around with the layout.
+* ⏰: starting from the EB template I started last week, importing 2 Map widgets, 2 text widgets and 2 image widgets and playing around with the layout. I realized that the initial 3D scene map I created wasn't very functional - so opted to remove for now. 
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/919cce6e-3ec1-40be-b231-486b84b1eb45)
 * ⏰: I GOT A ROUTE TO WORK !!!
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/fbc9bbbc-bd24-4241-8189-7858c747a5dd)
