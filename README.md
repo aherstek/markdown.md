@@ -201,7 +201,7 @@ _experience builder_
 * ⏰: *next steps*
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/85ec32ef-2fc4-40dd-b150-cd78bf4c7b18)
 * :exclamation:: ^ input the 3D imagery I created in Scene Viewer somehow and making it look better than my initial trials (in screenshots from today)
-* ⏰: overall, creating this dashboard took me much longer than expected. i forgot how much time it takes to create a nice looking layout... plugging in thw widgets and setting them up was the easy part! lol :exclamation:: this weekend i will continue to work on our webpage: https://georajesh.github.io/geom99-project/index.html 
+* ⏰: overall, creating this dashboard took me much longer than expected. i forgot how much time it takes to create a nice looking layout... plugging in the widgets and setting them up was the easy part! lol :exclamation:: this weekend i will continue to work on our webpage: https://georajesh.github.io/geom99-project/index.html where we will display the many ways we have experimented displaying room data and navigation within ESRI products.
 * ⏰: _end time: 3:25pm_
   
   
