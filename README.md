@@ -173,7 +173,7 @@ NOTE: remember to "lock layout" before viewing your widgets so you can view it f
 * ⏰: i imported a layer i created during my experience builder trials so i can better understand what scene viewer has to offer! right off the bat, i noticed that you can adjust the time of day and weather on your layers, to accurately display shadowing and sun positioning (so cool!). this can be found by clicking the sun icon on the right, titled "Daylight/Weather".
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/5d76ac7e-f9b8-4856-b899-dcc7873ea8ce)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/e790a2d4-6356-4444-8c5f-25e8688c28a0)
-* ⏰: by clicking "present" and using the control toggles on the left, you can see your imported layer as 3D. i am now going to try to import this ino my experience builder (once i make it look a bit better/see other analysis options!)
+* ⏰: by clicking "present" and using the control toggles on the left, you can see your imported layer as 3D. i played around with displaying layers on their own, stacked, and with the "mock" building overlaid on top. personally, i think the layers by themselves stacked (and colour coded) looks cool but i'm unsure of the functionality / when this would be useful to have. i am now going to try to import this ino my experience builder if possible (and once i make it look a bit better/see other analysis options!)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/8f2a0f89-d2d5-4ec3-a166-29cfd8ffb490)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/004bf677-6752-4b8a-bb2e-f8c35211cb51)
 * ⏰: slice layer allows you to drag the exterior walls up and down using the large orange arrow to see internal floor plans!
@@ -188,7 +188,7 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/175b5536-1d45-4cc7-b21d-43162e9f2da4)
 * ⏰: Another example of output, showing time and directions step by step
   
-* ⏰: a (simple) but functional dashboard! :exclamation: :exclamation:
+* ⏰: a (simple) but functional dashboard! :exclamation: :exclamation: it doesn't make too much logical sense - but my goal was just to have multiple features in a dashboard up and running - which i accomplished. routing for outdoor areas was a simple workflow - but the indoors portion is still challenging. 
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/3fc799b5-8da3-4147-9adb-c0573083b4f5)
 * ⏰: this dashboard allows a user to do the following functions:
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/2e00b08e-ee22-495c-aaef-579274004b06)
