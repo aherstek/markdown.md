@@ -245,7 +245,10 @@ _experience builder_
 * ⏰: ^ i enabled a pop up for when someone firsts clicks onto the dashboard, this would be great for informing someone how the dashboard works, or any important info.
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/7dd03175-cb3d-433d-9e40-b161c67daa10)
 * ⏰: ^ you can do this my going to "window" instead of page and selecting "fixed" windows
-* ⏰:
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/8cd0ebdf-182a-4101-88e8-651cbd5eca54)
+* ⏰: ^ other than my poor colour scheme that makes the selected area hard to read - the function works well. i chose "admin" and it pulled areas/rooms that have admin in their name. i clicked on one, and it (faintly) highlights the area. i tried to see how to darken the highlight colour but can't seem to find where / if possible. once something is selected, it shows the user the # of selected features in the bottom right, which if you click on it - it zooms right to the area from a birds eye view. this gets a bit jumbled with the many layers stacked on top, but you can turn them off in the layers/legend buttons at the very top right for easier viewing.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/b86547e2-cdbe-4722-baf3-c4a6f2604d51)
+* ⏰: ^ legend and map layers buttons at top of dashboard
 
 * ⏰: _end time: 2:45pm_
   
