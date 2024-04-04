@@ -228,6 +228,22 @@ _experience builder_
 
 **april 4:**
 * ⏰: _start time: 12:30pm_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/eff44985-1bd0-43b1-946f-1d5068a606cc)
+* ⏰: this is what i have created so far in my practice and experimenting. the dashboard has an info widget that flips through informational views, a routing of outdoor park, and a floormap map that can be queried and the layers swiped through to see floor by floor.
+* ⏰: what i want to do it utilize scene viewer and try to get it into a dashboard and see what we can do differently in regards to navigation / querying / displaying information about the building. tali created a nicer looking scene viewer output than i did, so i will be using hers to save me time to actually work on the dashboard's outputs.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/2f8400f2-8758-4a18-8109-45af4c47d32c)
+* ⏰: ^ i have chosen a different experience builder layout, and will spend the next little bit editing the text and "cartographic" parts before moving onto trial and erroring the scene viewer portion.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/b160967d-6ac8-4c83-84fa-d47f5d329f11)
+* ⏰: ^ trialling using the "search" function within the map widget for the user to be able to search something such as "elevator" on the floors.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/0cd30321-5fcc-4f72-a453-c19750079052)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/78084a5f-6170-4522-8425-cee6eed0cf3d)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/c187f84b-c614-4bb7-87bf-2dff269cfc65)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/5af93d30-8a40-4eb9-921c-4ea5cc35400a)
+* ⏰: it works!! after setting up my settings as such ^ allowing for the user to search floor, name and group (with exact match turned off so they could still potentially get results without exact spelling) i was able to type in "elevator" and it displays all elevators per floor - and then when you click on a specific one it highlights it on the map for you!!! 
+* ⏰:
+* ⏰:
+* ⏰:
+* ⏰:
 
 * ⏰: _end time: 2:45pm_
   
