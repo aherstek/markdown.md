@@ -252,6 +252,7 @@ _experience builder_
 * ⏰: ^ legend and map layers buttons at top of dashboard
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/5f95dbfe-7579-44ce-9fbc-6e42b9e340f8)
 * ⏰: i wanted to try and add the swipe feature like i have in my other dashboard, because i thought it would be cool to utilize in a 3D space - but unfortunately it is not supported.
+* ⏰: **NOTE** i have noticed that the dashboard utilizing scene viewer data runs a lot slower than my 2D dashboard, and if you move around quick the image quality becomes fuzzy and pixelated. just good to note if thinking of using a large dataset of floor plans in the future!
   
 * ⏰: overall i am very pleased that in the end, i accomplished my goal of being able to obtain room level information and it's location through a simple search bar using UDOT's data. unfortunately i could not get the navigational part to work for indoor data (UDOT data was not 'floor aware') but i did get routing to work for our outdoor park which was exciting. **lots** of trial and error and playing around, but i feel as though it was very valuable because i gained 2 new skills: experience builder and scene viewer, both of which i had no working knowldge of before - and now i am very confident i could recreate this again and improve my skills even further.
 * ⏰: _end time: 8:30am_
