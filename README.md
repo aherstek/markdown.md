@@ -205,7 +205,7 @@ _experience builder_
 * ⏰: _end time: 3:25pm_
 
 **april 3:**
-* ⏰: _start time: 9:0pm_
+* ⏰: _start time: 9:00pm_
 * ⏰: continuing with experience builder...
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/8e40f463-d11d-4377-a015-606d8cb1e945)
 * ⏰: ^ using the "swipe" function to allow users to look at different features of floor plans. "leading" layers i selected to be the skeleton floor plans, and the "trailling" layers i chose to be coloured, blocked out floor plans of the rooms. i chose to allow all layers to be swiped on, but you could choose a certain floor for a better, detailed idea of the layout.
@@ -220,13 +220,11 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/a38f5430-8090-4b24-94f2-62f6cf6eab00)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/c6e808c7-2f6a-4be1-a293-aa3a110c59d7)
 * ⏰: ^ the "2/2" at the top of the first screenshot lets you know which view you are editing, which you can switch up the layout from the previous view. the second screenshot is the settings, which you need to flick on "automate" and you can set your intervals for it to cycle through your views within the widget. i think this is neat because if you have lots of information to share / info how to utilize the dashboard, you can do so without taking up too much space on the dashboard itself.
-* ⏰:
-* ⏰:
-
-
-
-
-* ⏰: _end time: 11:30pm_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/ab5e83f5-08a3-412d-94c3-2e5e32d4752b)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/21c729a4-b0e0-4ada-8473-3663833e03e5)
+* ⏰: ^ couldn't get the formatting quite right yet on the second view, but this is what the user sees (i chose a 5 second interval) on the dashboard.
+* ⏰: overall, i didn't make too much progress today as small roadbumps took up a lot of my time. i had hoped to polish my dashbard up (which i kind of did) but i did not get to putting my scene viewer map into the dashboard. i will work on this tomorrow so i can have my finalized experience builder "solution" ready to show shawn on friday during our technical meeting :)
+* ⏰: _end time: 11:00pm_
 
 **april 4:**
 * ⏰: _start time: 12:30pm_
