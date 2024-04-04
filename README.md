@@ -240,9 +240,11 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/c187f84b-c614-4bb7-87bf-2dff269cfc65)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/5af93d30-8a40-4eb9-921c-4ea5cc35400a)
 * ⏰: it works!! after setting up my settings as such ^ allowing for the user to search floor, name and group (with exact match turned off so they could still potentially get results without exact spelling) i was able to type in "elevator" and it displays all elevators per floor - and then when you click on a specific one it highlights it on the map for you!!! 
-* ⏰:
-* ⏰:
-* ⏰:
+* ⏰: this is what i had been working to accommplish since starting this project so i am thrilled i got it to work. i was discouraged as the initial floor plans were not "floor aware" so i felt as though i could not accomplish what i wanted - but scene viewer saved the day! i am now going to continue to work on my dashboard and see what else i can get to work!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/5bb162cd-7cf4-45e0-b237-918fb46d7984)
+* ⏰: ^ i enabled a pop up for when someone firsts clicks onto the dashboard, this would be great for informing someone how the dashboard works, or any important info.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/7dd03175-cb3d-433d-9e40-b161c67daa10)
+* ⏰: ^ you can do this my going to "window" instead of page and selecting "fixed" windows
 * ⏰:
 
 * ⏰: _end time: 2:45pm_
