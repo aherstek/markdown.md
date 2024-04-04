@@ -223,6 +223,9 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/ab5e83f5-08a3-412d-94c3-2e5e32d4752b)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/21c729a4-b0e0-4ada-8473-3663833e03e5)
 * ⏰: ^ couldn't get the formatting quite right yet on the second view, but this is what the user sees (i chose a 5 second interval) on the dashboard.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/894987f4-9c13-4057-aea9-3fea06ad392e)
+* ⏰: when going to publish, i was met with this screen ^ and i opted to not publish because i was scared i was going to use up credits etc. still saved dashboard to my AGOL account and in my geom99 group, just opted to not re-publish just in case!
+
   
 * ⏰: overall, i didn't make too much progress today as small roadbumps took up a lot of my time. i had hoped to polish my dashbard up (which i kind of did) but i did not get to putting my scene viewer map into the dashboard. i will work on this tomorrow so i can have my finalized experience builder "solution" ready to show shawn on friday during our technical meeting :)
 * ⏰: _end time: 11:00pm_
