@@ -223,11 +223,12 @@ _experience builder_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/ab5e83f5-08a3-412d-94c3-2e5e32d4752b)
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/21c729a4-b0e0-4ada-8473-3663833e03e5)
 * ⏰: ^ couldn't get the formatting quite right yet on the second view, but this is what the user sees (i chose a 5 second interval) on the dashboard.
+  
 * ⏰: overall, i didn't make too much progress today as small roadbumps took up a lot of my time. i had hoped to polish my dashbard up (which i kind of did) but i did not get to putting my scene viewer map into the dashboard. i will work on this tomorrow so i can have my finalized experience builder "solution" ready to show shawn on friday during our technical meeting :)
 * ⏰: _end time: 11:00pm_
 
 **april 4:**
-* ⏰: _start time: 12:30pm_
+* ⏰: _start time: 6:30am_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/eff44985-1bd0-43b1-946f-1d5068a606cc)
 * ⏰: this is what i have created so far in my practice and experimenting. the dashboard has an info widget that flips through informational views, a routing of outdoor park, and a floormap map that can be queried and the layers swiped through to see floor by floor.
 * ⏰: what i want to do it utilize scene viewer and try to get it into a dashboard and see what we can do differently in regards to navigation / querying / displaying information about the building. tali created a nicer looking scene viewer output than i did, so i will be using hers to save me time to actually work on the dashboard's outputs.
@@ -249,6 +250,9 @@ _experience builder_
 * ⏰: ^ other than my poor colour scheme that makes the selected area hard to read - the function works well. i chose "admin" and it pulled areas/rooms that have admin in their name. i clicked on one, and it (faintly) highlights the area. i tried to see how to darken the highlight colour but can't seem to find where / if possible. once something is selected, it shows the user the # of selected features in the bottom right, which if you click on it - it zooms right to the area from a birds eye view. this gets a bit jumbled with the many layers stacked on top, but you can turn them off in the layers/legend buttons at the very top right for easier viewing.
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/b86547e2-cdbe-4722-baf3-c4a6f2604d51)
 * ⏰: ^ legend and map layers buttons at top of dashboard
-
-* ⏰: _end time: 2:45pm_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/5f95dbfe-7579-44ce-9fbc-6e42b9e340f8)
+* ⏰: i wanted to try and add the swipe feature like i have in my other dashboard, because i thought it would be cool to utilize in a 3D space - but unfortunately it is not supported.
+  
+* ⏰: overall i am very pleased that in the end, i accomplished my goal of being able to obtain room level information and it's location through a simple search bar using UDOT's data. unfortunately i could not get the navigational part to work for indoor data (UDOT data was not 'floor aware') but i did get routing to work for our outdoor park which was exciting. **lots** of trial and error and playing around, but i feel as though it was very valuable because i gained 2 new skills: experience builder and scene viewer, both of which i had no working knowldge of before - and now i am very confident i could recreate this again and improve my skills even further.
+* ⏰: _end time: 8:30am_
   
