@@ -203,7 +203,33 @@ _experience builder_
 * :exclamation:: ^ input the 3D imagery I created in Scene Viewer somehow and making it look better than my initial trials (in screenshots from today)
 * ⏰: overall, creating this dashboard took me much longer than expected. i forgot how much time it takes to create a nice looking layout... plugging in the widgets and setting them up was the easy part! lol :exclamation:: this weekend i will continue to work on our webpage: https://georajesh.github.io/geom99-project/index.html where we will display the many ways we have experimented displaying room data and navigation within ESRI products.
 * ⏰: _end time: 3:25pm_
-  
-  
 
+**april 3:**
+* ⏰: _start time: 9:0pm_
+* ⏰: continuing with experience builder...
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/8e40f463-d11d-4377-a015-606d8cb1e945)
+* ⏰: ^ using the "swipe" function to allow users to look at different features of floor plans. "leading" layers i selected to be the skeleton floor plans, and the "trailling" layers i chose to be coloured, blocked out floor plans of the rooms. i chose to allow all layers to be swiped on, but you could choose a certain floor for a better, detailed idea of the layout.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/57c1117b-0720-4477-a0b1-ad4ad3cdf6c5)
+* ⏰: ^ within the swipe widget that you put on your dashboard, you can also allow users to decide which floors they want to swipe between (from my pre-determined "leading" and "trailling" selection you choose in the settings)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/4f91b124-b19e-4a78-bd0d-7efbbb11c4f6)
+* ⏰: **NOTE** there are some important icons on top of every widget you place in experience builder. i spent way too long trying to find a lost widget when i (in hindsight) probably accidentally clickedv"send to back" allowing all other widgets on top of this one. the 3 stacked squares icon accounts for this, and allows you to choose how you wish to stack and layer your widgets if necessary. the icon beside it, a lock, can lock and unlock your widget's location and size - essentially freezing it place. i found this widgets very helpful once i figured them out!
+* ⏰: within the swipe tool, there are basic and advanced "swipes". the one i display above is the basic version, but i now am going to try the advanced setting. this advanced layout allows the user to swipe between multiple floors of your choosing in a more seamless fashion.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/3f61a7a7-1030-47f8-abd6-6549835ced1c)
+* ⏰: ^ in this swipe, you can use the horizontal scroll bar to move left and right to view the floor plans individually. i chose to display floor plan B, 1, 2, 3, and 4 (blocked, coloured layers) so the user could slide across and see each layer of the building, basement to top! like mentioned in the badic version, the user has control to flick on and off the layers of their choosing using the swipe widget locked to the map.
+* ⏰: another feature i found was in the "card" widget, which allows for photos, a title and subtitle, etc - you can lock this to the top, bottom, L or R side of your dashboard. something cool i discovered and played with was having multiple slides, kind of like a presentation that you can automate to flip through.
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/a38f5430-8090-4b24-94f2-62f6cf6eab00)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/c6e808c7-2f6a-4be1-a293-aa3a110c59d7)
+* ⏰: ^ the "2/2" at the top of the first screenshot lets you know which view you are editing, which you can switch up the layout from the previous view. the second screenshot is the settings, which you need to flick on "automate" and you can set your intervals for it to cycle through your views within the widget. i think this is neat because if you have lots of information to share / info how to utilize the dashboard, you can do so without taking up too much space on the dashboard itself.
+* ⏰:
+* ⏰:
+
+
+
+
+* ⏰: _end time: 11:30pm_
+
+**april 4:**
+* ⏰: _start time: 12:30pm_
+
+* ⏰: _end time: 2:45pm_
   
