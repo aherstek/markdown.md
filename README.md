@@ -260,3 +260,16 @@ _experience builder_
 * ⏰: overall i am very pleased that in the end, i accomplished my goal of being able to obtain room level information and it's location through a simple search bar using UDOT's data. unfortunately i could not get the navigational part to work for indoor data (UDOT data was not 'floor aware') but i did get routing to work for our outdoor park which was exciting. **lots** of trial and error and playing around, but i feel as though it was very valuable because i gained 2 new skills: experience builder and scene viewer, both of which i had no working knowldge of before - and now i am very confident i could recreate this again and improve my skills even further.
 * ⏰: _end time: 8:30am_
   
+
+**april 6:**
+* ⏰: _start time: 7:30pm_
+* ⏰: tonight i will work on polishing up my 2 dashboards (try to figure out how to better highlight selected items in 3D dashboard maybe?) but i am done experimenting at this point. once i am satified with the 2 final products - i will continue to work on Group 4 websites.
+* ⏰: so, today will be tips / tricks i find about the "aesthetic" side of experience builder, as i have mainly been focusing on the technical portions via widgets and not caring too much about the settings of _how_ they look, just how they work :)
+* ⏰:
+* <img width="621" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/f16045ee-50da-4ba3-a24f-210f225be686">
+
+
+
+
+
+* ⏰: _start time: 11:30pm_
