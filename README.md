@@ -293,3 +293,10 @@ _2D dashboard_
 * ⏰: clicking through the **many** widget options, colour/font/text/layout/shape/etc styles took me way longer than anticipated. but, i feel as though i now have a good grasp on how to better layout a dashboard and really utilize all it has to offer!
 * ⏰: next (and final?) steps are the github website - i hope to make either detailed screenshots or gifs (if i can figure that out) of my dashboards to display them as a solution.
 * ⏰: _end time: 11:00pm_
+
+
+**april 7**
+* ⏰:_start time: 10:00am_
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/f33499f6-72d0-4105-a02a-d498e38eaf49)
+* ⏰: ^ trying to create a gif to upload into github website - i screen recorded a small clip of using the dashboard, imported into clipchamp to the export into a gif.
+
