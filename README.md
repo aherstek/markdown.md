@@ -265,11 +265,28 @@ _experience builder_
 * ⏰: _start time: 7:30pm_
 * ⏰: tonight i will work on polishing up my 2 dashboards (try to figure out how to better highlight selected items in 3D dashboard maybe?) but i am done experimenting at this point. once i am satified with the 2 final products - i will continue to work on Group 4 websites.
 * ⏰: so, today will be tips / tricks i find about the "aesthetic" side of experience builder, as i have mainly been focusing on the technical portions via widgets and not caring too much about the settings of _how_ they look, just how they work :)
-* ⏰:
+  
+* _3D dashboard_
+  
+* ⏰: first i will try to read some documentation if it's possible to change the highlight colour during the select tool
 * <img width="621" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/f16045ee-50da-4ba3-a24f-210f225be686">
+* ⏰: ^ update: after ~20 mins clicking through every setting and referring to some stack exchange discussion and it seems as though you cannot. the only thing i can think of is going back into arc scene viewer and altering the colour scheme to better display the experience builder highlight colour, but i do not have time to do that - nor is it that important. but, an important thing to note if really highlighting the selected room is important to the user.
+* <img width="119" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/28becde9-625b-482c-9a63-f45c358bbe19">
+* ⏰: ^ my first concern in regards to visual appeal is that when selecting a "theme" colour - i chose a dusty, salmon-y pink?, it skews all your widget icons to match the theme colour which makes the icons hard to see. in my case not a huge deal, but for someone who is visually impaired, or new to using a dashboard it would be hard to navigate. i found that darker theme colours selected provided more contrast for the widget buttons.
+* <img width="286" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/80b16b63-f0b9-4a15-b3f5-67d6dcb7ab93">
+* ⏰: ^ you can change the colours of the widgets by clicking on it's icon while the layout is unlocked, choosing "advanced" settings which will allow background colour and font/size options
+* <img width="666" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/e6c9e0d7-4eea-4857-b688-92b896d262a3">
+* ⏰: ^ i also experimented with how different screen sizes look with their auto formatting function (example above is how my dashboard would be seen on a tablet). experience builder essentially tries to fit your widgets into the screens dimensions by condensing / creating a layout automatically. i trialled with different dimensions which you can alter beside the 3 "screen" sizes (square shapes). overall it did an okay job to try and accommodate your data into the new screen size, but i did find in smaller mobile screen sizes that some widgets got lost.
+* <img width="1440" alt="Screen Shot 2024-04-06 at 9 58 32 PM" src="https://github.com/aherstek/markdown.md/assets/146446987/d825c803-bcdc-45b6-b9c6-4f443925ebea">
+* ⏰: ^ its also good to note "page" vs "window" screens - it is the second icon down on the left side. "page" refers to your main dashboard and it's associated widgets and "window" refers to pop ups and infographics you automate to display info etc. far too often i was on the wrong screen and couldn't figure out why the settings i wanted were not showing up. so if you're stuck - make sure you're on the right screen you're lookinh for!
+* ⏰: within the "window" settings on the right (in above picture) you can modify if the window pop up is fixed or anchored, what the user must press/enter to close the pop up and the colours/font/size. i found this to be neat, especially when you want to ensure that someone has read pertinent information provided on how to use the dashboard etc - and has to click a button / type a phrase before proceeding!
 
-
-
-
-
-* ⏰: _start time: 11:30pm_
+_2D dashboard_
+* <img width="734" alt="Screen Shot 2024-04-06 at 10 15 23 PM" src="https://github.com/aherstek/markdown.md/assets/146446987/11eda0e2-7898-4811-800b-51feb1a327b7">
+* ⏰: ^ something i found helpful (though they are tricky to place, especially rotate) are these dashed markers to divide your sections. no purpose other than organization, but helpful to guide your user around the dashboard and give some blank space for balance.
+* <img width="244" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/2f968508-536b-4bdd-9a09-11662174281b">
+* ⏰: ^ in the 3D dashboard, the arc scene viewer floor plan map took up 90% of the dashboard's surface - not allowing for many other features. in this 2D dashboard, i had a lot of space to place smaller widgets. at the buttom of the widget selection are these 3 areas - all of which help _organize_ the widgets you place... a widget to help another widget... widget inception? lol. the "menu and toolbars" allow you to condense widgets into icons if you have lots you want to display - and the user can decide which is brought to the forefront. "layout" is quite self explanatory - controlling the flow and size of the widgets and organizing them. a cool one is grid (which i used) which creates patterns of squares that you can then plunk your chosen widgets into - so the sizes are consistent and look good together. thirdly is "sections" which allows for better user navigation - one of which being "views navigation" which gives users the power to flip through the sidebar view at their own pace, if the automation the owner chooses is too slow/fast for their liking!
+* ⏰:
+* ⏰:
+* 
+* ⏰: _end time: 11:30pm_
