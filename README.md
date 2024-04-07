@@ -300,7 +300,7 @@ _2D dashboard_
 * ![image](https://github.com/aherstek/markdown.md/assets/146446987/f33499f6-72d0-4105-a02a-d498e38eaf49)
 * ⏰: ^ trying to create a gif to upload into github website - i screen recorded a small clip of using the dashboard, imported into clipchamp to the export into a gif.
 * <img width="1059" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/250ebbe3-60df-4c6d-8556-f3e28370e2b0">
-* ⏰: ^ it worked! i will take the next little bit to create some other gifs of things we wish to highlight on our website
+* ⏰: ^ it worked (though the resolution is terrible!)... i will take the next little bit to create some other gifs of things we may wish to highlight on our website.
 * ⏰: _end time: 10:20am_
 
 
