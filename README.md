@@ -286,7 +286,10 @@ _2D dashboard_
 * ⏰: ^ something i found helpful (though they are tricky to place, especially rotate) are these dashed markers to divide your sections. no purpose other than organization, but helpful to guide your user around the dashboard and give some blank space for balance.
 * <img width="244" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/2f968508-536b-4bdd-9a09-11662174281b">
 * ⏰: ^ in the 3D dashboard, the arc scene viewer floor plan map took up 90% of the dashboard's surface - not allowing for many other features. in this 2D dashboard, i had a lot of space to place smaller widgets. at the buttom of the widget selection are these 3 areas - all of which help _organize_ the widgets you place... a widget to help another widget... widget inception? lol. the "menu and toolbars" allow you to condense widgets into icons if you have lots you want to display - and the user can decide which is brought to the forefront. "layout" is quite self explanatory - controlling the flow and size of the widgets and organizing them. a cool one is grid (which i used) which creates patterns of squares that you can then plunk your chosen widgets into - so the sizes are consistent and look good together. thirdly is "sections" which allows for better user navigation - one of which being "views navigation" which gives users the power to flip through the sidebar view at their own pace, if the automation the owner chooses is too slow/fast for their liking!
-* ⏰:
-* ⏰:
-* 
-* ⏰: _end time: 11:30pm_
+* ⏰: at the top of the widget bar there are 2 subtitled, "new" and "pending" - "new" is dragging a new widget into frame and "pending" is one you have started/are working on. i thought i lost a widget at one point until i realized it was in the "pending" list so if you think one is gone... look there!
+* <img width="412" alt="image" src="https://github.com/aherstek/markdown.md/assets/146446987/3e5502a7-d02c-43de-b7e0-4a447bf7251d">
+* ⏰: within each widget placed - if you click on it, it will bring up an array of additional icons that allow for further editing. they are (L to R): align (snap to left, right, top or bottom), arrange (bring forward, push back, stack layers), lock position and size, duplicate, move to pending list (if wanting to further edit), delete, shape (not available for all widgets - only photo and text), and crop (not available for all widgets ex. can't crop an analysis widget).
+
+* ⏰: clicking through the **many** widget options, colour/font/text/layout/shape/etc styles took me way longer than anticipated. but, i feel as though i now have a good grasp on how to better layout a dashboard and really utilize all it has to offer!
+* ⏰: next (and final?) steps are the github website - i hope to make either detailed screenshots or gifs (if i can figure that out) of my dashboards to display them as a solution.
+* ⏰: _end time: 11:00pm_
