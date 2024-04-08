@@ -303,4 +303,9 @@ _2D dashboard_
 * ⏰: ^ it worked (though the resolution is terrible!)... i will take the next little bit to create some other gifs of things we may wish to highlight on our website.
 * ⏰: _end time: 10:20am_
 
+**april 8**
+* ⏰:_start time: 7:40am_
+* ⏰: touched base with group to make a plan for final website and devliverables. will continue to work on inputting text and gifs into github and package my AGOL items for submission! yay! :)
+* ⏰:_start time: 9:15am_
+
 
