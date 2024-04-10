@@ -308,4 +308,20 @@ _2D dashboard_
 * ⏰: touched base with group to make a plan for final website and devliverables. will continue to work on inputting text and gifs into github and package my AGOL items for submission! yay! :)
 * ⏰:_start time: 9:15am_
 
+**april 10**
+* ⏰:_start time: 3:00pm_
+![image](https://github.com/aherstek/markdown.md/assets/146446987/13e9d8a5-c95a-4ec0-bc0d-59e243b25bdb)
+* ⏰: decided to quickly play around with indoors since we now have it available in our student license! ^ starting up an indoors gdb :)
+* ⏰: i don't have time to delve into experimenting with indoors, but just wanting to click around and see what an indoors gdb generates for future use potentially (collab project)
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/d8743231-a401-41e5-8b98-42b72eb252b1)
+* ⏰: ^ indoors gdb uploaded! it generates 3 feature data sets: 1) indoors, 2) network and 3) prelim-network
+* ⏰: indoors dataset consists of shape files (point, line and polygons) - from occupants, to sections, levels, facilities - it seems very thorough what you can document and utilize indoors for.
+* ⏰: network dataset consists of routing options - landmarks, pathways and transitions - which is super cool for creating navigational maps/web apps/etc!
+* ⏰: prelim-network dataset consists of tables - all set up and configured to use!
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/08029152-e217-4be9-abd6-2fe16774eb70)
+* ⏰: ^ example of table with predetermined fields
+* ![image](https://github.com/aherstek/markdown.md/assets/146446987/ec631be4-074b-4a91-b6b8-8a84ace74a6f)
+* ⏰: i wanted to try and fully import the UDOT data to indoors but I don't have the excel file needed to configure. I am happy to have clicked around and gotten a feel for indoors and the many default datasets provided when importing an indoors gdb into arcgis pro.
+* ⏰:_end time: 3:20pm_
+
 
